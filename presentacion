@@ -1,0 +1,18 @@
+<!DOCTYPE html
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="maria rivera" content="width=device-width, initial-scale=1.0">
+    <title>Página de presentacion</title>
+</head>
+<body>
+    <h1>Bienvenido a mi presentacion en github</h1>
+    <p>Este es un sitio de prueba para mostrar cómo hacer cambios y commits. Hemos mejorado la estructura y el contenido.</p>
+
+    <section id="contacto">
+        <h2>Contáctanos</h2>
+        <p>Para más información, no dudes en enviarnos un mensaje a <a href="mriveram@unemi.ec">"mriveram@unemi.ec"< class="">_rivera_00___
+        </a>.</p>
+    </section>
+</body>
+</html>
